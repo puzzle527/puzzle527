@@ -1,5 +1,5 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Kim, Back-end Web Developer and Game Client Programmer from :kr: Seoul, Republic of Korea
+### I am Kim, preparing to become Back-end Web Developer and Game Client Programmer from :kr: Seoul, Republic of Korea
 
 ### About me
 
