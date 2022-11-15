@@ -1,5 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Kim, preparing to become Back-end Web Developer and Game Client Programmer 
+### I am Kim, Back-end Web Developer.
+### And i prepared to become a Game Client Programmer in the past. 
 ### from :kr: Seoul, Republic of Korea
 
 ### About me
@@ -15,7 +16,7 @@ Game Client development <br/>
 ### Projects
 [2D Game Portfolio](https://www.youtube.com/watch?v=BvCTkkAV0ow) <br/>
 [3D Game Portfolio](https://www.youtube.com/watch?v=DEmAV8VxxUQ) <br/>
-[My future goal is to do a web project]
+[web project](https://github.com/khj1212k/RiceCake) <br/>
 
 ### Languages and Tools
 
